@@ -3,4 +3,4 @@ deepface
 tf_keras
 
 tensorflow
-numpy
+numpygt 
